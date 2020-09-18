@@ -283,12 +283,11 @@ The first meeting of the year 2009. The agenda will be:
 ` 10:00a to 10:45a `<B>`Presentation by Lavakumar on vulnerability in Flex Applications `[`Download``
  ``Presentation`](https://www.owasp.org/images/e/e3/FlashSecurity.ppt)</B>
 
-` 10:45a to 11:00a `<B>`Coffee/Tea break`</B>
+` 10:45a to 11:00a Coffee/Tea break`
 
-` 11:00a to 12:00n `<B>`Presentation by Venki on top 25 programming errors `[`Download``
- ``Presentation`](https://www.owasp.org/images/1/11/Top25ProgrammingErrors.ppt)</B>
+` 11:00a to 12:00n Presentation by Venki on top 25 programming errors `[`Download Presentation`](https://www.owasp.org/images/1/11/Top25ProgrammingErrors.ppt)</B>
 
-` 12:00n to 12:01p `<B>`Closing Session`</B>
+` 12:00n to 12:01p Closing Session `
 
 
 ### OWASP Chennai chapter Kick off Meeting - 2 February 2007
@@ -302,7 +301,6 @@ The agenda:
 
 ` 14.15 - 14.30: OWASP Introduction, Anand,Cognizant `
 
-` 14.30 - 15.30: Presentation on Phishing, Sreemathy Varadan, Cognizant `[`Download``
- ``Presentation`](https://www.owasp.org/images/a/a3/Phishing.ppt)
+` 14.30 - 15.30: Presentation on Phishing, Sreemathy Varadan, Cognizant `[`Download Presentation`](https://www.owasp.org/images/a/a3/Phishing.ppt)
 
 ` 15.30 - 16.00: Discussion - Meeting Schedule for 2007, Chennai Chapter Activities`
