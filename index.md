@@ -25,19 +25,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ### Current Chapter Leaders
 
-#### Venkatraman Kumar (Sep 2020 - Present)
-
-#### Muktheeswaran Mariappan (Sep 2020 - Present)
+Venkatraman Kumar (Sep 2020 - Present)
+Muktheeswaran Mariappan (Sep 2020 - Present)
 
 ### Previous Chapter Leaders
 
-#### Chintu Philips Koshy (Jan 2017 - Aug 2020)
-
-#### Santhosh Kumar (Jan 2017 - Present)
-
-#### Aardash Nagalingam (March 2017 - August 2019)
-
-#### Venkatesh Jagannathan (2009 - 2015)
-
-#### Chandrasekar Umapathy(2009 - 2015)
+Chintu Philips Koshy (Jan 2017 - Aug 2020)
+Santhosh Kumar (Jan 2017 - Present)
+Aardash Nagalingam (March 2017 - August 2019)
+Venkatesh Jagannathan (2009 - 2015)
+Chandrasekar Umapathy(2009 - 2015)
 
