@@ -21,23 +21,23 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Upcoming Events
 ```Follow us on Twitter to know about more upcoming events and instant updates```
 
-# **Chennai OWASP Chapter Leaders**
+## **Chennai OWASP Chapter Leaders**
 
-## Current Chapter Leaders
+### Current Chapter Leaders
 
-### Venkatraman Kumar (Sep 2020 - Present)
+#### Venkatraman Kumar (Sep 2020 - Present)
 
-### Muktheeswaran Mariappan (Sep 2020 - Present)
+#### Muktheeswaran Mariappan (Sep 2020 - Present)
 
-## Previous Chapter Leaders
+### Previous Chapter Leaders
 
-### Chintu Philips Koshy (Jan 2017 - Aug 2020)
+#### Chintu Philips Koshy (Jan 2017 - Aug 2020)
 
-### Santhosh Kumar (Jan 2017 - Present)
+#### Santhosh Kumar (Jan 2017 - Present)
 
-### Aardash Nagalingam (March 2017 - August 2019)
+#### Aardash Nagalingam (March 2017 - August 2019)
 
-### Venkatesh Jagannathan (2009 - 2015)
+#### Venkatesh Jagannathan (2009 - 2015)
 
-### Chandrasekar Umapathy(2009 - 2015)
+#### Chandrasekar Umapathy(2009 - 2015)
 
