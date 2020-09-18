@@ -7,9 +7,10 @@ region: Asia
 ---
 
 ## Welcome
-Include some information here about your chapter
 
 <img src="assets/images/bug_dark_logo.png">
+
+OWASP Chennai was founded in Jan, 2009. For the past 11 years, the Chennai Chapter has conducted numerous Meetups, Webinars and Conferences. All these confereneces are open meets where everyone can join and share their knowledge in Application Security. The chapter presents opportunities to the software community in contributing to secure application development.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -40,4 +41,3 @@ Aardash Nagalingam (March 2017 - August 2019)
 Venkatesh Jagannathan (2009 - 2015)
 
 Chandrasekar Umapathy(2009 - 2015)
-
