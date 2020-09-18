@@ -32,11 +32,11 @@ Muktheeswaran Mariappan (Sep 2020 - Present)
 
 ### Previous Chapter Leaders
 
-Chintu Philips Koshy (Jan 2017 - Aug 2020)
+Chintu Philips Koshy (Aug 2019 - Aug 2020)
 
-Santhosh Kumar (Jan 2017 - Present)
+Santhosh Kumar (Aug 2019 - Aug 2020)
 
-Aardash Nagalingam (March 2017 - August 2019)
+Aardash Nagalingam (Mar 2017 - Aug 2019)
 
 Venkatesh Jagannathan (2009 - 2015)
 
