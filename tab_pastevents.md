@@ -112,74 +112,68 @@ tags: Chennai OWASP Chapter India
 
 #### **Sessions**
 
-  - [19](https://null.co.in/events/419-chennai-null-chennai-meet-17-february-2018-null-owasp-combined)
+  - [Meetup Details](https://null.co.in/events/419-chennai-null-chennai-meet-17-february-2018-null-owasp-combined)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 20th January, 2018 3:00 PM
 
 #### **Sessions**
 
-  - [20](https://null.co.in/events/408-chennai-null-chennai-meet-20-january-2018-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/408-chennai-null-chennai-meet-20-january-2018-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 23rd December, 2017 3:00 PM
 
 #### **Sessions**
 
-  - [21](https://null.co.in/events/401-chennai-null-chennai-meet-23-december-2017-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/401-chennai-null-chennai-meet-23-december-2017-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 25th November, 2017 3:00 PM
 
 #### **Sessions**
 
-  - [22](https://null.co.in/events/393-chennai-null-chennai-meet-25-november-2017-combined-null-owasp-meet)
+  - [Meetup Details](https://null.co.in/events/393-chennai-null-chennai-meet-25-november-2017-combined-null-owasp-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 28th October, 2017 3:00 PM
 
 #### **Sessions**
 
-  - [23](https://null.co.in/events/382-chennai-null-chennai-meet-28-october-2017-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/382-chennai-null-chennai-meet-28-october-2017-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 23rd September, 2017 3:00 PM
 
 #### **Sessions**
 
-  - [24](https://null.co.in/events/368-chennai-null-chennai-meet-23-september-2017-combined-null-owasp-meet)
+  - [Meetup Details](https://null.co.in/events/368-chennai-null-chennai-meet-23-september-2017-combined-null-owasp-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 22nd July, 2017 3:00 PM
 
 #### **Sessions**
 
-  - [Meetup
-    Details](https://null.co.in/events/348-chennai-null-chennai-meet-22-july-2017-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/348-chennai-null-chennai-meet-22-july-2017-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 17th June, 2017 4:30 PM
 
 #### **Sessions**
 
-  - [Meetup
-    Details](https://null.co.in/events/340-chennai-null-chennai-meet-17-june-2017-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/340-chennai-null-chennai-meet-17-june-2017-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 20th May, 2017 4:30 PM
 
 #### **Sessions**
 
-  - [Meetup
-    Details](https://null.co.in/events/324-chennai-null-chennai-meet-20-may-2017-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/324-chennai-null-chennai-meet-20-may-2017-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 22nd April, 2017 3 PM
 
 #### **Sessions**
 
-  - [Meetup
-    Details](https://null.co.in/events/313-chennai-null-chennai-meet-22-april-2017-null-owasp-combined-meet)
+  - [Meetup Details](https://null.co.in/events/313-chennai-null-chennai-meet-22-april-2017-null-owasp-combined-meet)
 
 ### OWASP Chennai | Null Chennai Combined Meet - 18th March 2017 2:30 PM
 
 #### **Sessions**
 
-  - [NodeJS
-    Security](https://null.co.in/event_sessions/1321-node-js-security)
-  - [Malware
-    Analysis](https://null.co.in/event_sessions/1322-malware-analysis)
+  - [NodeJS Security](https://null.co.in/event_sessions/1321-node-js-security)
+  - [Malware Analysis](https://null.co.in/event_sessions/1322-malware-analysis)
   - [AWS Security](https://null.co.in/event_sessions/1331-aws-security)
   - [Newsbytes](https://null.co.in/event_sessions/1324-news-bytes)
 
@@ -187,45 +181,38 @@ tags: Chennai OWASP Chapter India
 
 ### **Sessions**
 
-  - [Android
-    Security](https://null.co.in/event_sessions/1283-android-security)
+  - [Android Security](https://null.co.in/event_sessions/1283-android-security)
   - [Newsbytes](https://null.co.in/event_sessions/1282-newbytes)
-  - [JS
-    Obfuscation](https://null.co.in/event_sessions/1281-js-obfuscation)
-  - [Buffer
-    Overflow](https://null.co.in/event_sessions/1280-buffer-overflow)
+  - [JS Obfuscation](https://null.co.in/event_sessions/1281-js-obfuscation)
+  - [Buffer Overflow](https://null.co.in/event_sessions/1280-buffer-overflow)
 
 ### OWASP Chennai Chapter Meeting - 11 August 2012
 
-` 09:30a – 09:35a => `<B>`Opening the meeting`</B>
+` 09:30a – 09:35a Opening the meeting`
 
-` 09:36a – 10:35a => `<B>`Big Data Security - Dr. T V Gopal `[`Download``
- ``Presentation`](/www-pdf-archive/OWASP_BigDataGenSecurity.pdf)</B>
+` 09:36a – 10:35a Big Data Security - Dr. T V Gopal `[`Download Presentation`](/www-pdf-archive/OWASP_BigDataGenSecurity.pdf)
 
-` 10:36a – 11:05a => `<B>`Break + Networking`</B>
+` 10:36a – 11:05a Break + Networking`
 
-` 11:06a – 12:05n => `<B>`SQL Injection & Basic Clickjacking - Vinod `[`Download``
- ``Presentation`](/www-pdf-archive/Owasp_sql_inj_basic_clickjacking.pdf)</B>
+` 11:06a – 12:05n SQL Injection & Basic Clickjacking - Vinod `[`Download Presentation`](/www-pdf-archive/Owasp_sql_inj_basic_clickjacking.pdf)
 
-` 12:06p – 12:15p => `<B>`Closing Remarks`</B>
+` 12:06p – 12:15p Closing Remarks`
 
 ### OWASP Chennai Chapter Meeting - 27 Jan 2012
 
-` 09:30a – 09:35a => `<B>`Opening the meeting`</B>
-` 09:36a – 10:35a => `<B>`Digital Forensics by Ms. Kala Bhaskar`</B>
-` 10:36a – 11:05a => `<B>`Break + Networking`</B>
-` 11:06a – 12:05n => `<B>`Identity & Access Management systems by Geetha `[`Download``
- ``Presentation`](/www-pdf-archive/AIM_-OWASP-Re.pdf)</B>
-` 12:06p – 12:10p => `<B>`Closing remarks`</B>
+` 09:30a – 09:35a Opening the meeting`
+` 09:36a – 10:35a Digital Forensics by Ms. Kala Bhaskar`
+` 10:36a – 11:05a Break + Networking`
+` 11:06a – 12:05n Identity & Access Management systems by Geetha `[`Download Presentation`](/www-pdf-archive/AIM_-OWASP-Re.pdf)
+` 12:06p – 12:10p Closing remarks`
 
 ### OWASP Chennai Chapter Meeting - 07 May 2011
 
-` 09:30a – 09:35a => `<B>`Opening the meeting`</B>
+` 09:30a – 09:35a Opening the meeting`
 
-` 09:36a – 10:35a => `<B>`Hacking - Tips & Tricks - Aananth `[`Download``
- ``Presentation`](/www-pdf-archive/Hacking-Tips-and-Tricks.pdf)</B>
+` 09:36a – 10:35a Hacking - Tips & Tricks - Aananth `[`Download Presentation`](/www-pdf-archive/Hacking-Tips-and-Tricks.pdf)
 
-` 10:36a – 11:05a => `<B>`Break + Networking`</B>
+` 10:36a – 11:05a Break + Networking`
 
 ` 11:06a – 12:05n => `<B>`Cyber Terrorism - Siva Kathiresan `[`Download``
  ``Presentation`](/www-pdf-archive/CyberTerrorism.pdf)</B>
@@ -283,11 +270,11 @@ The first meeting of the year 2009. The agenda will be:
 ` 10:00a to 10:45a `<B>`Presentation by Lavakumar on vulnerability in Flex Applications `[`Download``
  ``Presentation`](https://www.owasp.org/images/e/e3/FlashSecurity.ppt)</B>
 
-` 10:45a to 11:00a Coffee/Tea break`
+10:45a to 11:00a Coffee/Tea break
 
-` 11:00a to 12:00n Presentation by Venki on top 25 programming errors `[`Download Presentation`](https://www.owasp.org/images/1/11/Top25ProgrammingErrors.ppt)</B>
+11:00a to 12:00n Presentation by Venki on top 25 programming errors [Download Presentation](https://www.owasp.org/images/1/11/Top25ProgrammingErrors.ppt)</B>
 
-` 12:00n to 12:01p Closing Session `
+12:00n to 12:01p Closing Session
 
 
 ### OWASP Chennai chapter Kick off Meeting - 2 February 2007
@@ -297,10 +284,10 @@ a discussion centered around our activities for the year 2007.
 
 The agenda:
 
-` 14.00 - 14.15: Welcome & Member Introduction`
+14.00 - 14.15: Welcome & Member Introduction
 
-` 14.15 - 14.30: OWASP Introduction, Anand,Cognizant `
+14.15 - 14.30: OWASP Introduction, Anand,Cognizant
 
-` 14.30 - 15.30: Presentation on Phishing, Sreemathy Varadan, Cognizant `[`Download Presentation`](https://www.owasp.org/images/a/a3/Phishing.ppt)
+14.30 - 15.30: Presentation on Phishing, Sreemathy Varadan, Cognizant [Download Presentation](https://www.owasp.org/images/a/a3/Phishing.ppt)
 
-` 15.30 - 16.00: Discussion - Meeting Schedule for 2007, Chennai Chapter Activities`
+15.30 - 16.00: Discussion - Meeting Schedule for 2007, Chennai Chapter Activities
