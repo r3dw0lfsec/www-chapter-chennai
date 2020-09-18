@@ -8,6 +8,7 @@ region: Asia
 
 ## Welcome
 Include some information here about your chapter
+
 <img src="assets/images/bug_dark_logo.png">
 
 ## Participation
