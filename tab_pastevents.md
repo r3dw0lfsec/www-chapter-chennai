@@ -3,7 +3,7 @@ title: pastevents
 displaytext: Past Events
 layout: null
 tab: true
-order: 5
+order: 2
 tags: Chennai OWASP Chapter India
 ---
 
