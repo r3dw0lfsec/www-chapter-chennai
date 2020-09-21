@@ -10,7 +10,7 @@ tags: Chennai OWASP Chapter India
 ## Speakers
 <img src="assets/images/call_for_paper.png"/>
 
-Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](mailto:owasp-chennai@owasp.org)
+Would you like to speak on the upcoming OWASP Chennai meetup? [Contact Us](mailto:owasp-chennai@owasp.org)
 
 **Email Format :**
 
